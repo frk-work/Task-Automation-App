@@ -12,6 +12,8 @@ Questo repository contiene un semplice sistema di gestione di regole (Rule Manag
 - **File di esempio/Python:** `ExProgramTrigger.py`, `ExternalProgramActionExample.py` all'interno della root del progetto
 - **File di serializzazione regole:** `rules.ser` (presente in root e in `Gruppo14/src/`)
 
+(TEST E RELATIVE CARTELLE PRESENTI SU GIT PER SCOPO INFORMATIVO E DI ESPOSIZIONE)
+
 Requisiti
 - Java JDK 8 o superiore
 - (Opzionale per i test) JUnit 4.x o JUnit 5 e relativi jar
