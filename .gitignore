@@ -1,0 +1,56 @@
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Compiled Java class files
+*.class
+
+# Build folders
+/bin/
+/build/
+/out/
+/target/
+/dist/
+
+# Maven / Gradle
+/.mvn/
+/.gradle/
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.project
+/.classpath
+/.settings/
+.vscode/
+
+# JARs (optional: if you store libs elsewhere, ignore jars)
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+
+# Logs, temporary and swap files
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# Test reports / coverage
+coverage/
+*.exec
+
+# OS temporary files
+~$*
+
+# Serialized files (uncomment if you want to ignore .ser files)
+# *.ser
